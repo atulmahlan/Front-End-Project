@@ -1,3 +1,4 @@
+# LORUKI: Cloud Hosting Website (Front-End)
 This project consists of a simple website for "Loruki," a cloud hosting service. 
 It includes three main HTML files (index.html, features.html, and docs.html) and a CSS file (style.css). 
 Here’s a summary and breakdown of each file:
