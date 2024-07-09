@@ -3,7 +3,7 @@ This project consists of a simple website for "Loruki," a cloud hosting service.
 It includes three main HTML files (index.html, features.html, and docs.html) and a CSS file (style.css). 
 Here’s a summary and breakdown of each file:
 
-index.html
+index.html:
 This is the homepage of the website, featuring the following sections:
 
 > Navbar: Contains links to the Home, Features, and Docs pages.
@@ -14,7 +14,7 @@ This is the homepage of the website, featuring the following sections:
 > Supported Languages: Shows the programming languages supported by Loruki.
 > Footer: Contains site links and social media icons.
 
-features.html
+features.html:
 This page lists the features of the Loruki platform:
 
 > Navbar: Same as on the homepage.
@@ -23,7 +23,7 @@ This page lists the features of the Loruki platform:
 > Features Main: A grid of cards, each detailing a specific feature with an icon.
 > Footer: Same as on the homepage.
 
-docs.html
+docs.html:
 This page serves as the documentation section:
 
 > Navbar: Same as on the homepage.
@@ -31,7 +31,7 @@ This page serves as the documentation section:
 > Docs Main: A grid layout, with a sidebar for navigation links and a main area for documentation content.
 > Footer: Same as on the homepage.
 
-style.css
+style.css:
 The CSS file contains styles for the entire website:
 
 > Global Styles: Font settings, box model adjustments, and general text styling.
