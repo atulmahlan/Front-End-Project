@@ -44,5 +44,14 @@ The CSS file contains styles for the entire website:
 8. Features and Docs: Styles specific to the features and docs pages, including grid layouts and card styles.
 9. Footer: Styles for the footer, including background color, text color, and social media icons.
 10. Responsive Design: Media queries to adjust the layout for tablets and mobile devices, ensuring the site is responsive.
+![Screenshot 2024-07-11 112246](https://github.com/atulmahlan/Front-End-Project/assets/103631775/f413cea1-e9c3-44c8-a490-cd17f96a23a3)
+
+![Screenshot 2024-07-11 112331](https://github.com/atulmahlan/Front-End-Project/assets/103631775/f2d2d2c4-0574-42dd-96fd-d0c60cebcc62)
+
+![Screenshot 2024-07-11 112409](https://github.com/atulmahlan/Front-End-Project/assets/103631775/853a5b7e-be13-49df-bfde-331561609471)
+
+![Screenshot 2024-07-11 112430](https://github.com/atulmahlan/Front-End-Project/assets/103631775/8f6b8cc1-ac42-442a-96b5-6b31e8d5c645)
+
+![Screenshot 2024-07-11 112457](https://github.com/atulmahlan/Front-End-Project/assets/103631775/8381255d-48e9-4259-a5c1-edb0f8feb2d0)
 
 This structure provides a well-organized and responsive website, showcasing Loruki's cloud hosting service effectively.
