@@ -3,6 +3,7 @@
 
 This project consists of a simple website for "Loruki," a cloud hosting service. 
 It includes three main HTML files (index.html, features.html, and docs.html) and a CSS file (style.css). 
+Here's the link from which you can access the website : www.lorukicloudhostingam.netlify.app 
 Here’s a summary and breakdown of each file:
 
 ### index.html:
@@ -50,13 +51,13 @@ The CSS file contains styles for the entire website:
 ### Some Images of this project:
 #### Header section:
 ![Screenshot 2024-07-11 112246](https://github.com/atulmahlan/Front-End-Project/assets/103631775/f413cea1-e9c3-44c8-a490-cd17f96a23a3)
-
+#### Languages section:
 ![Screenshot 2024-07-11 112331](https://github.com/atulmahlan/Front-End-Project/assets/103631775/f2d2d2c4-0574-42dd-96fd-d0c60cebcc62)
-
+#### Features page:
 ![Screenshot 2024-07-11 112409](https://github.com/atulmahlan/Front-End-Project/assets/103631775/853a5b7e-be13-49df-bfde-331561609471)
-
+#### Features section:
 ![Screenshot 2024-07-11 112430](https://github.com/atulmahlan/Front-End-Project/assets/103631775/8f6b8cc1-ac42-442a-96b5-6b31e8d5c645)
-
+#### Documents Page:
 ![Screenshot 2024-07-11 112457](https://github.com/atulmahlan/Front-End-Project/assets/103631775/8381255d-48e9-4259-a5c1-edb0f8feb2d0)
 
 This structure provides a well-organized and responsive website, showcasing Loruki's cloud hosting service effectively.
