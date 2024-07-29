@@ -1,9 +1,11 @@
-# LORUKI: Cloud Hosting Website (Front-End)
+# LORUKI: Cloud Hosting Website
+## Project Description:
+
 This project consists of a simple website for "Loruki," a cloud hosting service. 
 It includes three main HTML files (index.html, features.html, and docs.html) and a CSS file (style.css). 
 Here’s a summary and breakdown of each file:
 
-index.html:
+### index.html:
 This is the homepage of the website, featuring the following sections:
 
 1. Navbar: Contains links to the Home, Features, and Docs pages.
@@ -14,7 +16,7 @@ This is the homepage of the website, featuring the following sections:
 6. Supported Languages: Shows the programming languages supported by Loruki.
 7. Footer: Contains site links and social media icons.
 
-features.html:
+### features.html:
 This page lists the features of the Loruki platform:
 
 1. Navbar: Same as on the homepage.
@@ -23,7 +25,7 @@ This page lists the features of the Loruki platform:
 4. Features Main: A grid of cards, each detailing a specific feature with an icon.
 5. Footer: Same as on the homepage.
 
-docs.html:
+### docs.html:
 This page serves as the documentation section:
 
 1. Navbar: Same as on the homepage.
@@ -31,7 +33,7 @@ This page serves as the documentation section:
 3. Docs Main: A grid layout, with a sidebar for navigation links and a main area for documentation content.
 4. Footer: Same as on the homepage.
 
-style.css:
+### style.css:
 The CSS file contains styles for the entire website:
 
 1. Global Styles: Font settings, box model adjustments, and general text styling.
@@ -44,6 +46,9 @@ The CSS file contains styles for the entire website:
 8. Features and Docs: Styles specific to the features and docs pages, including grid layouts and card styles.
 9. Footer: Styles for the footer, including background color, text color, and social media icons.
 10. Responsive Design: Media queries to adjust the layout for tablets and mobile devices, ensuring the site is responsive.
+
+### Some Images of this project:
+#### Header section:
 ![Screenshot 2024-07-11 112246](https://github.com/atulmahlan/Front-End-Project/assets/103631775/f413cea1-e9c3-44c8-a490-cd17f96a23a3)
 
 ![Screenshot 2024-07-11 112331](https://github.com/atulmahlan/Front-End-Project/assets/103631775/f2d2d2c4-0574-42dd-96fd-d0c60cebcc62)
