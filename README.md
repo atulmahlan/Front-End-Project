@@ -1,10 +1,10 @@
 # LORUKI: Cloud Hosting Website
 ## Project Description:
 
-This project consists of a simple website for "Loruki," a cloud hosting service. 
-It includes three main HTML files (index.html, features.html, and docs.html) and a CSS file (style.css). 
-Here's the link from which you can access the website : www.lorukicloudhostingam.netlify.app 
-Here’s a summary and breakdown of each file:
+> This project consists of a simple website for "Loruki," a cloud hosting service. 
+> It includes three main HTML files (index.html, features.html, and docs.html) and a CSS file (style.css). 
+> Here's the link from which you can access the website : www.lorukicloudhostingam.netlify.app .
+## Here’s a summary and breakdown of each file:
 
 ### index.html:
 This is the homepage of the website, featuring the following sections:
